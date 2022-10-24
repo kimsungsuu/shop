@@ -11,7 +11,6 @@ import java.util.List;
 public interface ItemRepository extends JpaRepository<Item, Long>, QuerydslPredicateExecutor<Item> {
 
     List<Item> findByItemNm(String itemNm);
-
     /**
      * or 조건 처리 메서드
      */
