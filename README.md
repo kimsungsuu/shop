@@ -20,3 +20,10 @@ This project is just to practice Spring boot :)
 > - thymeleaf
 > - th:text
 > - ${변수명}
+
+### 2022-10-24
+
+>
+> - thymeleaf
+> - spring security
+> - spring annotation(@Configuration, @Enumerated .. etc)
