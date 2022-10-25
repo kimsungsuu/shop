@@ -27,3 +27,8 @@ This project is just to practice Spring boot :)
 > - thymeleaf
 > - spring security
 > - spring annotation(@Configuration, @Enumerated .. etc)
+
+### 2022-10-25
+
+>
+> - spring security
