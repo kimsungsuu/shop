@@ -36,6 +36,10 @@ This project is just to practice Spring boot :)
 ### 2022-10-26
 
 > - spring validation
-> - (Modify MemberFormDto.java, MemberController.java)
+>   - Modify MemberFormDto.java 
+>   - MemberController.java
 > - spring login/logout
-> - (Modify MemberService.java, SecurityConfig.java, MemberConroller.java and Create memberLoginForm.html)
+>   - Modify MemberService.java
+>   - SecurityConfig.java
+>   - MemberConroller.java
+>   - Create memberLoginForm.html
