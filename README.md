@@ -1,6 +1,6 @@
 # shop
 
-👍 Create shop project using spring boot <br/>
+😊 Create shop project using spring boot <br/>
 This project is just to practice Spring boot :)
 
 
@@ -32,3 +32,8 @@ This project is just to practice Spring boot :)
 
 >
 > - spring security
+
+### 2022-10-26
+
+> - spring validation(Modify MemberFormDto.java, MemberController.java)
+> - spring login/logout(Modify MemberService.java, SecurityConfig.java, MemberConroller.java and Create memberLoginForm.html)
