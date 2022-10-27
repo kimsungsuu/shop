@@ -38,7 +38,7 @@ public class SecurityConfig{
         ;
 
         http.exceptionHandling()
-                .authenticationEntryPoint(new CustomAuthenticationEntryPoint())
+                .authenticationEntryPoint(new CustomAuthenticationEntryPoint()) //5
         ;
 
         return http.build();
