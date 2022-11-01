@@ -43,3 +43,9 @@ This project is just to practice Spring boot :)
 >   - SecurityConfig.java
 >   - MemberConroller.java
 >   - Create memberLoginForm.html
+
+### 2022-11-01
+
+> - 상품 등록 조회하
+> - 영속성 전이(cascade)
+> - Auditing 
