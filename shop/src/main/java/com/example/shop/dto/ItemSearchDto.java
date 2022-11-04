@@ -10,11 +10,11 @@ import lombok.Setter;
 @Getter @Setter
 public class ItemSearchDto {
 
-    private String searchDataType;
+    private String searchDateType;
 
     private ItemSellStatus searchSellStatus;
 
-    private String searchBy;
+    private String searchBy; // itemNm = 상품명 or createdBy = 작성자명
 
     private String searchQuery = "";
 }
