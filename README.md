@@ -49,3 +49,9 @@ This project is just to practice Spring boot :)
 > - 상품 등록 조회하
 > - 영속성 전이(cascade)
 > - Auditing 
+
+### 2022-11-04
+
+> - 상품 조회 기능
+>   - Querydsl
+>     - JPAQueryFactory
